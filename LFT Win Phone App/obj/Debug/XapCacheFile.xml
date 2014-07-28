@@ -1,10 +1,8 @@
-﻿<xapCache source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\LFT_Win_Phone_App.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="28-Jul-14 2:15:58 PM">
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28-Jul-14 2:15:57 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Background.png" archivePath="Background.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\obj\Debug\LFT Win Phone App.dll" archivePath="LFT Win Phone App.dll" lastWriteTime="28-Jul-14 2:15:57 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="19-Jul-14 9:02:53 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28-Jul-14 2:15:57 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
-  <file source="C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
+﻿<xapCache source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\LFT_Win_Phone_App.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="28-Jul-14 9:12:26 PM">
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="28-Jul-14 2:15:57 PM" />
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Background.png" archivePath="Background.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="28-Jul-14 9:06:49 PM" />
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\obj\Debug\LFT Win Phone App.dll" archivePath="LFT Win Phone App.dll" lastWriteTime="28-Jul-14 9:12:25 PM" />
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="28-Jul-14 2:15:57 PM" />
+  <file source="C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="19-Jul-14 9:02:53 PM" />
 </xapCache>

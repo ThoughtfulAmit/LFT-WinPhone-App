@@ -1,4 +1,3 @@
-C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\ApplicationIcon.png
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\Background.png
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\LFT Win Phone App.dll
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\LFT Win Phone App.pdb
@@ -11,3 +10,4 @@ C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Ph
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\AppManifest.xaml
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\Bin\Debug\LFT_Win_Phone_App.xap
 C:\Users\amit\documents\visual studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\obj\Debug\XapCacheFile.xml
+C:\Users\amit\Documents\Visual Studio 2010\Projects\LFT Win Phone App\LFT Win Phone App\obj\Debug\Settings.g.i.cs
