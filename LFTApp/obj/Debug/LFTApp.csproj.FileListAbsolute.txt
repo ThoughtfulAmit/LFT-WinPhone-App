@@ -1,0 +1,14 @@
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\ApplicationIcon.png
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\Background.png
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\LFTApp.dll
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\LFTApp.pdb
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\AppManifest.xaml
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\Bin\Debug\LFTApp.xap
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\App.g.i.cs
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\MainPage.g.i.cs
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\LFTApp.g.resources
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\LFTApp.dll
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\LFTApp.pdb
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\XapCacheFile.xml
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\Registration.g.i.cs
+c:\users\amit\documents\visual studio 2010\Projects\LFTApp\LFTApp\obj\Debug\Settings.g.i.cs
